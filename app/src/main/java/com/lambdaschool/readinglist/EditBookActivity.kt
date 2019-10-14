@@ -50,7 +50,6 @@ class EditBookActivity : AppCompatActivity() {
 
     private fun saveBook() {
 
-
         // todo 5: Commit our changes with a good commit message
         // todo 6: Merge with development and open a pull-request
         val bookName = book_name_text.text.toString()
